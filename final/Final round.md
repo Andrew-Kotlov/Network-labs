@@ -7,9 +7,14 @@
 
 ---
 
+<details >
+  <summary>Топология</summary>
+  
 ### Топология
 
 ![alt text](image-1.png)
+
+</details>
 
 ---
 
