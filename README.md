@@ -61,11 +61,6 @@
 - Понимание маршрутизации, сетевой безопасности и межофисных соединений.
 - Умение документировать лабораторную работу: топологии, конфигурации и результаты проверок.
 
-## 🔗 Другие проекты
-
-- [devops-lab](https://github.com/Andrew-Kotlov/devops-lab) — отдельная учебная DevOps-лаборатория (приватный репозиторий).
-- [Pet-Travel](https://github.com/Andrew-Kotlov/Pet-Travel) — приложение для дальнейшей DevOps-практики.
-
 ---
 
 <p align="center"><sub>Учебный репозиторий · Cisco / Networking / Infrastructure</sub></p>
