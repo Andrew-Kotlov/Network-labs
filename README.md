@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🌐 Network Labs
+<h1>🌐 Network Labs</h1>
 
-**Практика сетевого администрирования: от базовой настройки Cisco до защищённой сети нескольких офисов.**
+<p><strong>Практика сетевого администрирования: от базовой настройки Cisco до защищённой сети нескольких офисов.</strong></p>
 
-![Cisco](https://img.shields.io/badge/Cisco-IOS-0F6CBD?style=for-the-badge&logo=cisco&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-Labs-222E3A?style=for-the-badge&logo=cisco&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-IPv4_%2F_IPv6-148C7E?style=for-the-badge)
+<img alt="Cisco" src="https://img.shields.io/badge/Cisco-IOS-0F6CBD?style=for-the-badge&logo=cisco&logoColor=white" />
+<img alt="Packet Tracer" src="https://img.shields.io/badge/Packet_Tracer-Labs-222E3A?style=for-the-badge&logo=cisco&logoColor=white" />
+<img alt="Networking" src="https://img.shields.io/badge/Networking-IPv4_%2F_IPv6-148C7E?style=for-the-badge" />
 
 </div>
 
